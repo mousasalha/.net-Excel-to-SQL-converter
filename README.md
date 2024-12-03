@@ -18,7 +18,7 @@ using https://www.nuget.org/packages/exceldatareader/
 
 ## 🚀 How to Get this 
 **DM for Source Code of this Project 🤝**
-
+Then
 1. Clone the repository.
 2. Open the solution in Visual Studio.
 3. Build and run the project.
@@ -28,9 +28,13 @@ using https://www.nuget.org/packages/exceldatareader/
 ### File Upload Page and Choose Table Name
 ![image](https://github.com/user-attachments/assets/26fff041-8c7f-4c1b-a0c0-ca38b949a104)
 
+
 ### SQL Query Preview
 ![image](https://github.com/user-attachments/assets/13654bc5-9376-4724-9dfe-99428e3c757c)
 
 
+### Excel Table Content Preview
+![image](https://github.com/user-attachments/assets/0c01c49c-3bb5-4f13-871f-c3002f44d33a)
+
 ## 📜 License
-By Mousa Salha
+🚀 By Mousa Salha 🤝
